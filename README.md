@@ -8,6 +8,7 @@ Any cricket enthusiast wants to keep track of their favorite player's career and
 **Libraries Used**: LangChain (For Integration with Ollama Models and for designing application workflow), Ollama (To run LLM models locally), Streamlit (For UI).
 
 #### Performance Under Mistral
-https://github.com/user-attachments/assets/5b409d3a-1a63-41ca-8da8-517c113ef502
 **Response Time > 30 secs**.
+
+https://github.com/user-attachments/assets/5b409d3a-1a63-41ca-8da8-517c113ef502
 
