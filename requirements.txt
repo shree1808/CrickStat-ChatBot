@@ -1,7 +1,7 @@
 streamlit
-sentence-transformers
-uvicorn
-ctransformers
+langchain-ollama
 langchain
 python-box
+uvicorn
+ollama
 streamlit
